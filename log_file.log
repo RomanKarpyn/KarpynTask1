@@ -1,0 +1,20 @@
+2018-06-28 16:14:23 INFO  Main:18 - object serealized
+2018-06-28 16:14:23 INFO  Main:20 - object deserealized
+2018-06-28 20:18:53 INFO  Main:18 - object serealized
+2018-06-28 20:18:53 INFO  Main:20 - object deserealized
+2018-06-28 20:22:56 INFO  Formater:29 - text has been formatted
+2018-06-28 20:23:19 INFO  Formater:29 - text has been formatted
+2018-06-28 20:24:18 INFO  Formater:29 - text has been formatted
+2018-06-28 20:24:31 INFO  Formater:29 - text has been formatted
+2018-06-28 20:37:57 INFO  Main:18 - object serealized
+2018-06-28 20:37:57 INFO  Main:20 - object deserealized
+2018-06-28 20:50:11 INFO  Formater:29 - text has been formatted
+2018-06-28 20:52:10 INFO  Formater:29 - text has been formatted
+2018-06-28 20:52:21 INFO  Main:18 - object serealized
+2018-06-28 20:52:22 INFO  Main:20 - object deserealized
+2018-06-28 20:53:05 INFO  Main:18 - object serealized
+2018-06-28 20:53:05 INFO  Main:20 - object deserealized
+2018-07-04 15:03:41 INFO  Formater:29 - text has been formatted
+2018-07-04 15:03:49 INFO  Main:18 - object serealized
+2018-07-04 15:03:49 INFO  Main:20 - object deserealized
+2018-07-04 15:03:56 INFO  TestPerformance:93 - enter path to your 200mb file
